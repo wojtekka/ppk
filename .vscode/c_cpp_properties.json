@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "ppk",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "__idata=",
+                "__bit=int",
+                "__interrupt(x)="
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
