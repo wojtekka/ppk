@@ -1,6 +1,8 @@
 Palm™ Portable Keyboard USB adapter
 ===================================
 
+![](hardware/ppk.jpg)
+
 Based on CH552 Macropad mini by Stefan Wagner (https://github.com/wagiminator/CH552-Macropad-mini). Headers from the original code:
 
     // ===================================================================================
@@ -23,3 +25,5 @@ Based on CH552 Macropad mini by Stefan Wagner (https://github.com/wagiminator/CH
 Based on Gist by Mightypork (https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2)
 
 Key mapping compatible with https://github.com/pymo/ppk_bluetooth/
+
+Hardware design released into public domain.
